@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://endermc.fun"
-baseurl: "/endermc"
+baseurl: "/"
 siteIcon: /media/d0b9564a39246436f3d661fb92e94b61.png
 siteYear: 2023
 siteFooterlink: /about
