@@ -2,8 +2,8 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://endermc.fun"
-baseurl: "/moonrise"
-siteIcon: "https://images-ext-2.discordapp.net/external/6JJbkf4luXs1ny3UrDxjqUmimCb9IloK63O1gkdjvZk/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1107964589867540542/d0b9564a39246436f3d661fb92e94b61.webp"
+baseurl: "/endermc"
+siteIcon: /media/d0b9564a39246436f3d661fb92e94b61.png
 siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
